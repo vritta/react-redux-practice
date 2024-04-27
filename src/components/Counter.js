@@ -14,7 +14,7 @@ const Counter = () => {
       <br />
       <br />
 
-      <div>{count}</div>
+      <div>Initial value--&gt; {count}</div>
 
       <br />
       <br />
